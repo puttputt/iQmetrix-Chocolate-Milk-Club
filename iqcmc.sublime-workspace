@@ -1,0 +1,388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"end",
+				"endTime"
+			],
+			[
+				"file",
+				"fileItem"
+			],
+			[
+				"event",
+				"eventAttributes"
+			],
+			[
+				"start",
+				"startDate"
+			],
+			[
+				"add",
+				"addDatePicker"
+			],
+			[
+				"star",
+				"startHour"
+			],
+			[
+				"tag",
+				"taglist"
+			],
+			[
+				"selec",
+				"selectedPageId"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"see",
+				"selectedPageId"
+			],
+			[
+				"noD",
+				"noDetails"
+			],
+			[
+				"pr",
+				"profile"
+			],
+			[
+				"own",
+				"ownerFound"
+			],
+			[
+				"sel",
+				"selectedCity"
+			],
+			[
+				"selected",
+				"selectedYear"
+			],
+			[
+				"cal-day",
+				"cal-day-selected"
+			],
+			[
+				"cal-d",
+				"cal-day-selected"
+			],
+			[
+				"cal-month",
+				"cal-month-selected"
+			],
+			[
+				"cal-mo",
+				"cal-month-selected"
+			],
+			[
+				"newEn",
+				"newEndHour"
+			],
+			[
+				"newN",
+				"newEndHour"
+			],
+			[
+				"comm",
+				"commentAttributes"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/events/event_add.js",
+		"/Users/kylesmyth/Projects/CanadaLive/server/publications.js",
+		"/Users/kylesmyth/Projects/CanadaLive/collections/events.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/main.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/helpers/router.js",
+		"/Users/kylesmyth/Projects/CanadaLive/server/automation.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/events/events_list.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/events/events_list.html",
+		"/Users/kylesmyth/Projects/CanadaLive/packages.json",
+		"/Users/kylesmyth/Projects/CanadaLive/server/fixtures.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/events/event_item.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/events/event_single.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/events/event_add.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/events/event_single.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/events/date_time.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/events/recurring.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/events/event_item.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/helpers/global.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/events/date_time.js",
+		"/Users/kylesmyth/Projects/CanadaLive/collections/pages.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/includes/tag_list.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/admin/edit_page.js",
+		"/Users/kylesmyth/Projects/CanadaLive/packages/fbgraph/server.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/admin/edit_page.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/admin/page_hosts.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/admin/page_hosts.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/admin/hosts.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/admin/admin_pages.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/admin/admin_pages.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/events/event_edit.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/events/event_edit.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/admin/pending.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/admin/pending.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/includes/calendar.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/includes/calendar.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/main.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/user/user_events.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/includes/tag_bar.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/events/event_tags.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/helpers/pick.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/includes/account_menu.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/includes/account_menu.js",
+		"/Users/kylesmyth/Desktop/CANADALIVE",
+		"/Users/kylesmyth/Projects/CanadaLive/readme.txt",
+		"/Users/kylesmyth/Projects/CanadaLive/README.txt",
+		"/Users/kylesmyth/Projects/CanadaLive/README",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/includes/nav.js",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/includes/nav.html",
+		"/Users/kylesmyth/Projects/CanadaLive/client/views/user/user_events.js",
+		"/Users/kylesmyth/Projects/CanadaLive/packages/fbgraph/package.js",
+		"/Users/kylesmyth/Projects/clive/client/views/admin/view_user.js",
+		"/Users/kylesmyth/Projects/clive/client/views/events/event_item.js",
+		"/Users/kylesmyth/Projects/clive/client/helpers/pick.html",
+		"/Users/kylesmyth/Projects/clive/client/main.html",
+		"/Users/kylesmyth/Projects/clive/client/views/events/google_maps.js",
+		"/Users/kylesmyth/Projects/clive/client/views/events/event_item.html",
+		"/Users/kylesmyth/Projects/clive/server/static_items.js",
+		"/Users/kylesmyth/Projects/clive/client/views/admin/view_user.html",
+		"/Users/kylesmyth/Projects/clive/client/views/events/google_maps.html",
+		"/Users/kylesmyth/Projects/clive/client/helpers/ics.js",
+		"/Users/kylesmyth/Projects/clive/server/publications.js",
+		"/Users/kylesmyth/Projects/clive/client/views/admin/admin_users.js",
+		"/Users/kylesmyth/Projects/clive/client/helpers/router.js",
+		"/Users/kylesmyth/Projects/clive/client/helpers/picked.js",
+		"/Users/kylesmyth/Projects/clive/client/helpers/pick.js",
+		"/Users/kylesmyth/Projects/clive/client/views/events/events_list.html",
+		"/Users/kylesmyth/Projects/clive/client/helpers/picked.html",
+		"/Users/kylesmyth/Projects/clive/server/user.js",
+		"/Users/kylesmyth/Projects/clive/collections/picked.js",
+		"/Users/kylesmyth/Projects/microscope/client/helpers/router.js",
+		"/Users/kylesmyth/Projects/microscope/client/views/posts/post_item.html",
+		"/Users/kylesmyth/Projects/microscope/client/views/posts/post_item.js",
+		"/Users/kylesmyth/Projects/microscope/client/helpers/handlebars.js",
+		"/Users/kylesmyth/Projects/microscope/collections/notifications.js",
+		"/Users/kylesmyth/Projects/microscope/collections/comments.js",
+		"/Users/kylesmyth/Projects/microscope/client/views/includes/header.html",
+		"/Users/kylesmyth/Projects/microscope/client/views/notifications/notifications.js",
+		"/Users/kylesmyth/Projects/microscope/client/views/notifications/notifications.html",
+		"/Users/kylesmyth/Projects/microscope/client/views/posts/posts_list.html",
+		"/Users/kylesmyth/Projects/microscope/client/views/posts/posts_list.js",
+		"/Users/kylesmyth/Projects/microscope/server/publications.js",
+		"/Users/kylesmyth/Projects/microscope/client/main.js",
+		"/Users/kylesmyth/Projects/microscope/server/fixtures.js",
+		"/Users/kylesmyth/Projects/microscope/client/views/posts/post_submit.js",
+		"/Users/kylesmyth/Projects/microscope/collections/posts.js",
+		"/Users/kylesmyth/Projects/microscope/client/views/comments/comments.js",
+		"/Users/kylesmyth/Projects/microscope/client/views/comments/comment_submit.js",
+		"/Users/kylesmyth/Projects/microscope/client/views/comments/comment.html",
+		"/Users/kylesmyth/Projects/microscope/client/views/posts/post_page.html",
+		"/Users/kylesmyth/Projects/microscope/client/views/comments/comment_submit.html",
+		"/Users/kylesmyth/Projects/microscope/client/views/posts/post_page.js",
+		"/Users/kylesmyth/Projects/microscope/client/views/includes/access_denied.html",
+		"/Users/kylesmyth/Projects/microscope/client/views/includes/loading.html",
+		"/Users/kylesmyth/Projects/microscope/client/views/posts/post_edit.html",
+		"/Users/kylesmyth/Projects/microscope/client/views/posts/post_edit.js",
+		"/Users/kylesmyth/Projects/microscope/lib/permissions.js",
+		"/Users/kylesmyth/Projects/microscope/client/main.html",
+		"/Users/kylesmyth/Projects/microscope/client/views/includes/errors.html",
+		"/Users/kylesmyth/Projects/microscope/client/helpers/errors.js",
+		"/Users/kylesmyth/Projects/microscope/client/views/includes/errors.js",
+		"/Users/kylesmyth/Projects/microscope/collections/untitled",
+		"/Users/kylesmyth/Projects/microscope/client/views/posts/post_submit.html",
+		"/Users/kylesmyth/Projects/microscope/client/helpers/config.js",
+		"/Users/kylesmyth/Projects/microscope/client/stylesheets/style.css",
+		"/Users/kylesmyth/Projects/hello-world/app.js",
+		"/Users/kylesmyth/Projects/hello-world/package.json",
+		"/Users/kylesmyth/Projects/canadalive/facebook-sdk/examples/newsfeed/facebookclient.py",
+		"/Users/kylesmyth/Desktop/numtowords.py",
+		"/Users/kylesmyth/Projects/canadalive/facebook-sdk/test.py"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"checked",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"text()",
+			"start",
+			"id=\"dates\"",
+			"start",
+			"page.tags[tag]",
+			"$set",
+			".toggleClass('warning-show');",
+			"cons",
+			"#if ",
+			"pend",
+			"console",
+			"Session.get('selectedCity')",
+			"offset",
+			"off",
+			"render",
+			"Render",
+			"i"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"val()",
+			"end",
+			"",
+			".addClass('warning-show');",
+			"#if tags.",
+			"this.params.city"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 256.0
+	},
+	"project": "iqcmc.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"packages/fbgraph/server.js"
+			],
+			[
+				"router",
+				"client/helpers/router.js"
+			],
+			[
+				"num",
+				"/Users/kylesmyth/Desktop/numtowords.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

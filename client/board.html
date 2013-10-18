@@ -1,0 +1,8 @@
+<template name="board">
+	<h2>LiterBoard</h2>
+	<ol class="list-group">
+	{{#each user}}
+		<li class="list-group-item">{{profile.name}} <span class="pull-right">{{profile.consumed}} L</span></li>
+	{{/each}}
+	</ol>
+</template>

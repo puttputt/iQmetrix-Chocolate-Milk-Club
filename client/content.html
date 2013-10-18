@@ -1,0 +1,16 @@
+<template name="content">
+	<div class="row">
+		<div class="col-md-4">{{> board}}</div>
+		<div class="col-md-4">{{> buy}}</div>
+		<div class="col-md-4">{{> inv}}</div>
+	</div>
+
+	{{#if admin}}
+
+	<h2>Admin</h2>
+	<div class="row">
+		<div class="col-md-4">{{> addInventory}}</div>
+		<div class="col-md-4">{{> addCredit}}</div>
+	</div>
+	{{/if}}
+</template>

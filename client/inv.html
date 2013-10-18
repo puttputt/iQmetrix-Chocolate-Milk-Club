@@ -1,0 +1,8 @@
+<template name="inv">
+	<h2>Inventory</h2>
+	<ul class="list-group">
+	{{#each item}}
+		<li class="list-group-item">{{name}} <span class="pull-right">{{volume}}/{{container}} L</span></li>
+	{{/each}}
+	</ul>
+</template>

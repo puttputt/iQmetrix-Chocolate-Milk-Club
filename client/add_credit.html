@@ -1,0 +1,15 @@
+<template name="addCredit">
+	<h2>Add Credit</h2>
+
+	<select id="userSelect">
+        <option>Select User</option>
+	            {{#each users}}
+	                <option id="{{_id}}">{{profile.name}}</option>
+	            {{/each}}
+    </select>
+
+    <input type="text" class="form-control" id="amount" placeholder="5.00">
+
+    <button type="button" class="btn btn-primary" id="add-credit">Add</button>
+	
+</template>
