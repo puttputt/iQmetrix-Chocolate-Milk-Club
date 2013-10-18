@@ -1,4 +1,11 @@
 Template.buy.helpers({
+	isMilk: function()
+	{
+		if(Inventory.find().count() > 0)
+			return true;
+		else
+			return false;
+	},
 	rate: function()
 	{
 		var inv = Inventory.find();

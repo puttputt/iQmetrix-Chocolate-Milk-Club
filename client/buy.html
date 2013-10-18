@@ -1,10 +1,16 @@
 <template name="buy">
 	<h2>Buy Milk</h2>
 	<span class="buy-desc">
-	The current rate for one iQmetrix pint glass of milk is $<strong>{{rate}}</strong>.
+	{{#if isMilk}}
+		The current rate for one iQmetrix pint glass of milk is $<strong>{{rate}}</strong>.
+	{{else}}
+		There is no milk to buy.
+	{{/if}}
 	</span>
 
-	<span>Credit: ${{credit}}</span>
+	{{#if credit}}
+		<span>Credit: ${{credit}}</span>
+	{{/if}}
 	<br />
 	<button type="button" class="btn btn-primary" id="buy">Buy Glass</button>
 
